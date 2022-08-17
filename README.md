@@ -5,6 +5,9 @@
 **IP计算器构想：**  
 <img src="https://school-of-automation-engineering.github.io/IP-calculator/img/LEO~PH%7DCZBS%25NPO01Q%7BWL%5BT.png">
 
+**IP计算器交互图:**
+<img src="img/IP计算器交互图.png"> 
+
 **项目贡献者:**  
 [Mason](https://github.com/mason369)
 
