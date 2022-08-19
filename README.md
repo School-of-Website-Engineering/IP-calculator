@@ -6,7 +6,7 @@
 <img src="https://school-of-automation-engineering.github.io/IP-calculator/img/LEO~PH%7DCZBS%25NPO01Q%7BWL%5BT.png">
 
 **IP计算器交互图:**
-<img src="img/IP计算器交互图.png"> 
+<img src="https://school-of-automation-engineering.github.io/IP-calculator/img/IP计算器交互图.jpg"> 
 
 **项目贡献者:**  
 [Mason](https://github.com/mason369)
